@@ -7,6 +7,7 @@ Examples data science portfolio
 * The file is at a customer level with 18 behavioral variables.
 * Using K-Means algorithm with the K value determined by silhouette score.
 * Using PCA for dimension reduction and better visualization.
+![](https://github.com/FeniRahmi/CC_segmentation/blob/main/ccs.png)
 
 # [Project 2 : Titanic Survival Passenger using Random Forest Algorithm](https://github.com/FeniRahmi/Titanic)
 * For this example project I predicted the survival status (0 = No, 1 = Yes) from the Titanic passenger.
@@ -20,3 +21,4 @@ I have explored the McDonald's dataset to find the answers for the following que
 * How much do beverages, like soda or coffee, contribute to the overall caloric intake?
 * Does ordered grilled chicken instead of crispy increase a sandwich's nutritional value?
 * What about ordering egg whites instead of whole eggs?
+![](https://github.com/FeniRahmi/McDonald_EDA/blob/main/mcd.png)
