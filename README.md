@@ -13,3 +13,10 @@ Examples data science portfolio
 * Using Random Forest classifier.
 * Creating new feature (feature engineering).
 * The submission score in kaggle is 0.76, which not bad for the first attempt.
+
+# [Project 3 : Exploratory Data Analysis : Nutrition Fact for McDonald's Menu](https://github.com/FeniRahmi/McDonald_EDA)
+I have explored the McDonald's dataset to find the answers for the following questions:
+* How many calories does the average McDonald's value meal contain?
+* How much do beverages, like soda or coffee, contribute to the overall caloric intake?
+* Does ordered grilled chicken instead of crispy increase a sandwich's nutritional value?
+* What about ordering egg whites instead of whole eggs?
