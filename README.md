@@ -1,5 +1,5 @@
-# Feni-Portfolio
-Examples data science portfolio 
+# Feni Rahmi Portfolio
+My data science portfolio 
 
 # [Project 1 : Credit Card Customer Segmentation](https://github.com/FeniRahmi/CC_segmentation)
 * Created a model that estimate credit card customer segmentation to help the company to define marketing strategy.
