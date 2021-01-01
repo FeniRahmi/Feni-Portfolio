@@ -22,3 +22,9 @@ I have explored the McDonald's dataset to find the answers for the following que
 * Does ordered grilled chicken instead of crispy increase a sandwich's nutritional value?
 * What about ordering egg whites instead of whole eggs?
 ![](images/mcd.png)
+
+# [Project 4 : Estimation of CO2 Emission using Simple Regression](https://github.com/FeniRahmi/Regression)
+* This project give a model to predict CO2 emission from car using simple regression algorithm.
+* There is one feature which I used in the modeling.
+* I have selected the feature using the manual plotting (features vs target).
+![](images/regression.png)
