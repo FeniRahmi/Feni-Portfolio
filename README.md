@@ -37,3 +37,6 @@ Using the existing data to predict wether an employee will be classified as best
 * Machine learning allows HR department to make decision to predict employee performance in the next 1 year using historical KPI (Key Performance Indicator) data owned by the company.
 * We used logistic regression, KNN, random forest and gradient boosting to find the best classification model.
 * We used AUC (Area Under ROC Curve) as evaluation metric.
+
+# [Project 7 : Market Basket](https://github.com/FeniRahmi/market-basket)
+At Shopee, sellers list thousands of products for sale on their platform. A better understanding of users' tastes and preferences for products can help Shopee design better promotions and recommendations for the users. To do that, we conduct market basket analysis which allows us to identify the relationship between different combinations of products that users buy.
