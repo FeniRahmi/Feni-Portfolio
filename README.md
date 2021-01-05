@@ -31,3 +31,9 @@ I have explored the McDonald's dataset to find the answers for the following que
 
 # [Project 5 : Payment Matching](https://github.com/FeniRahmi/payment_matching)
 At Shopee, the buyer who chooses to place an order using bank transfer is supposed to make the transfer within 2 days after he/she places the order. After that, Shopee will receive a bank statement from the bank and Shopee needs to compare and match the bank statement with the checkout information in order to confirm that this particular order has been paid. Two criteria need to be met in order to match a bank statement with a checkout : amount match and name match. A proper match occurs when both the amount and the name matches on both bank statement and checkout list. Based on the two criteria, I have matched the bank statement IDs to the checkout IDs.
+
+# [Project 6 : People Analytics : Is the employee has best performance or not?](https://github.com/FeniRahmi/People-Analytics)
+Using the existing data to predict wether an employee will be classified as best performance or not.
+* Machine learning allows HR department to make decision to predict employee performance in the next 1 year using historical KPI (Key Performance Indicator) data owned by the company.
+* We used alogistic regression, KNN, random forest and gradient boosting to find the best classification model.
+* We used AUC (Area Under ROC Curve) as evaluation metric.
