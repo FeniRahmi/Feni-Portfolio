@@ -40,3 +40,9 @@ Using the existing data to predict wether an employee will be classified as best
 
 # [Project 7 : Market Basket](https://github.com/FeniRahmi/market-basket/blob/main/Market%20Basket.ipynb)
 At Shopee, sellers list thousands of products for sale on their platform. A better understanding of users' tastes and preferences for products can help Shopee design better promotions and recommendations for the users. To do that, we conduct market basket analysis which allows us to identify the relationship between different combinations of products that users buy.
+
+# [Project 8 : Nobel Prize Winners](https://github.com/FeniRahmi/nobel-prize-winner/blob/main/NobelPrize.ipynb)
+* This project provided by Rasmus Bååth is a Senior Data Scientist at King. Previously, he was an instructor and Curriculum Lead for Projects at DataCamp.
+* The Nobel Prize is perhaps the world's most well known scientific award. Every year it is given to scientists and scholars in chemistry, literature, physics, medicine, economics, and peace. Between 1901 and 2016, the Nobel Prizes and the Prize in Economic Sciences were awarded 579 times to 911 people and organizations.
+* In this project, I used EDA to answer several questions.
+![](images/Nobel_Prize.png)
