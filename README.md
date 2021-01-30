@@ -58,3 +58,7 @@ ARIMA (Auto Regressive Integrated Moving Average) is a simple stochastic time se
 
 # [Project 11 : Movie Recommendation (Content-Based Filtering)](https://github.com/FeniRahmi/Movie-Recommendation/blob/main/Movie%20Reccomendation%20(Content-Based%20Filtering).ipynb)
 Recommendation systems are a collection of algorithms used to recommend items to users based on information taken from users. In this notebook, I made movie recommendation system used content-based and implement a simplified version of the system using the Python and Pandas library.
+
+# [Project 12 : Sentiment Analysis about Airlines on Twitter](https://github.com/FeniRahmi/Sentiment-Analysis/blob/main/Sentiment%20Analysis%20about%20Airlines.ipynb)
+In this notebook, we want to know the analytical sentiment of Twitter users regarding airlines. Later this sentiment analysis will be useful for a company to be able to find out the shortcomings of their services and improve the quality of their work.
+![](images/sentiment.png)
