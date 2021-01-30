@@ -52,4 +52,6 @@ At Shopee, sellers list thousands of products for sale on their platform. A bett
 * In this project, a retail company has an idea to use e-payment in the payment system at the cashier. However, other employees thought that using cash was already effective. Therefore, I want to test the use of e-payment at one of the company branches by means of A/B testing. I will test 2 branches: branch A and branch B. Branch A will use cash for the payment, while for Branch B will use e-payment.
 * I used T-test and build hypothesis to the parameters : average payment time, convertion rate (proportion of customers who make transactions).
 
-![](images/paymentmethod.jpg)
+# [Project 10 : Sales Forecasting Using ARIMA](https://github.com/FeniRahmi/Sales-forecasting/blob/main/Sales%20Forecasting%20using%20ARIMA.ipynb)
+ARIMA (Auto Regressive Integrated Moving Average) is a simple stochastic time series model that we can use to train and then forecast future time points. ARIMA can capture complex relationships as it takes error terms and observations of lagged terms. These models rely on regressing a variable on past values. In this notebook, I have predicted the sales of a company for the next period.
+![](images/arima.png)
