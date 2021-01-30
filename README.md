@@ -57,4 +57,4 @@ ARIMA (Auto Regressive Integrated Moving Average) is a simple stochastic time se
 ![](images/arima.png)
 
 # [Project 11 : Movie Recommendation (Content-Based Filtering)](https://github.com/FeniRahmi/Movie-Recommendation/blob/main/Movie%20Reccomendation%20(Content-Based%20Filtering).ipynb)
-Recommendation systems are a collection of algorithms used to recommend items to users based on information taken from users. In this notebook, we will explore content-based recommendation systems and implement a simplified version of the system using the Python and Pandas library.
+Recommendation systems are a collection of algorithms used to recommend items to users based on information taken from users. In this notebook, I made movie recommendation system used content-based and implement a simplified version of the system using the Python and Pandas library.
