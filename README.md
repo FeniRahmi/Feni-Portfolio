@@ -55,3 +55,6 @@ At Shopee, sellers list thousands of products for sale on their platform. A bett
 # [Project 10 : Sales Forecasting Using ARIMA](https://github.com/FeniRahmi/Sales-forecasting/blob/main/Sales%20Forecasting%20using%20ARIMA.ipynb)
 ARIMA (Auto Regressive Integrated Moving Average) is a simple stochastic time series model that we can use to train and then forecast future time points. ARIMA can capture complex relationships as it takes error terms and observations of lagged terms. These models rely on regressing a variable on past values. In this notebook, I have predicted the sales of a company for the next period.
 ![](images/arima.png)
+
+# [Project 11 : Movie Recommendation](https://github.com/FeniRahmi/Movie-Recommendation/blob/main/Movie%20Reccomendation%20(Content-Based%20Filtering).ipynb)
+Recommendation systems are a collection of algorithms used to recommend items to users based on information taken from users. In this notebook, we will explore content-based recommendation systems and implement a simplified version of the system using the Python and Pandas library.
