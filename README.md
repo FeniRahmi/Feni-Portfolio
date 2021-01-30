@@ -51,4 +51,5 @@ At Shopee, sellers list thousands of products for sale on their platform. A bett
 # [Project 9 : A/B Testing for Payment Method](https://github.com/FeniRahmi/AB_testing/blob/main/AB%20testing%20payment%20method.ipynb)
 * In this project, a retail company has an idea to use e-payment in the payment system at the cashier. However, other employees thought that using cash was already effective. Therefore, I want to test the use of e-payment at one of the company branches by means of A/B testing. I will test 2 branches: branch A and branch B. Branch A will use cash for the payment, while for Branch B will use e-payment.
 * I used T-test and build hypothesis to the parameters : average payment time, convertion rate (proportion of customers who make transactions).
+
 ![](images/paymentmethod.jpg)
