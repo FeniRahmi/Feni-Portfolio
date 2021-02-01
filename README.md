@@ -64,4 +64,4 @@ In this notebook, we want to know the analytical sentiment of Twitter users rega
 ![](images/sentiment.png)
 
 # [Project 13 : Exploratory Data of K-pop Idols](https://github.com/FeniRahmi/EDA-Kpop-idols/blob/main/EDA%20Kpop%20idols.ipynb)
-K-pop idols have data! And it will be interesting if we explore this to answer several general questions. I created some features based on the existing features. I used jupyter notebook for this project. The dataset is about K-pop idols profile from 1992 to 2020.
+K-pop idols have data! And it will be interesting if we explore this to answer several general questions. I created some features based on the existing features. I used jupyter notebook for this project. The dataset is about K-pop idols profile from 1992 to 2020. I also wrote the article about this project in medium : [Feni Rahmi](https://fenirahmi-fr.medium.com/exploratory-data-of-k-pop-idols-8693b44ac312).
