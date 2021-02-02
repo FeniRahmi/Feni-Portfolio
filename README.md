@@ -56,6 +56,7 @@ At Shopee, sellers list thousands of products for sale on their platform. A bett
 
 # [Project 12 : Sentiment Analysis about Airlines on Twitter](https://github.com/FeniRahmi/Sentiment-Analysis/blob/main/Sentiment%20Analysis%20about%20Airlines%20on%20Twitter.ipynb)
 In this notebook, we want to know the analytical sentiment of Twitter users regarding airlines. Later this sentiment analysis will be useful for a company to be able to find out the shortcomings of their services and improve the quality of their work.
+
 ![](images/wordcloud%20sentiment.png)
 
 # [Project 13 : Sales Forecasting Using ARIMA](https://github.com/FeniRahmi/Sales-forecasting/blob/main/Sales%20Forecasting%20using%20ARIMA.ipynb)
