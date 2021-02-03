@@ -26,8 +26,10 @@ I have explored the McDonald's dataset to find the answers for the following que
 # [Project 4 : Exploratory Data of K-pop Idols](https://github.com/FeniRahmi/EDA-Kpop-idols/blob/main/EDA%20Kpop%20idols.ipynb)
 K-pop idols have data! And it will be interesting if we explore this to answer several general questions. I created some features based on the existing features. I used jupyter notebook for this project. The dataset is about K-pop idols profile from 1992 to 2020. I have published the article about this project in medium : [Feni Rahmi](https://fenirahmi-fr.medium.com/exploratory-data-of-k-pop-idols-8693b44ac312).
 
-# [Project 5 : ... (medium2)]()
-...
+# [Project 5 : Getting Insights from K-pop Groups' Data (1992-2020)](https://github.com/FeniRahmi/EDA-Kpop-2/blob/main/EDA%20KPOP%202.ipynb)
+I have analyzed each feature of the K-pop groups data to make the data exploration easier. I used two datasets : K-pop boy group and K-pop girl group profiles from 1992 to 2020. I used pie charts to visualize the data because I want to see the percentage of the totals data. I have published the article about this project in medium : [Feni Rahmi](https://fenirahmi-fr.medium.com/k-pop-groups-data-exploration-5630668ccb89)
+
+![](https://github.com/FeniRahmi/Feni-Rahmi-Portfolio/blob/main/images/kpop%20eda2.PNG)
 
 # [Project 6 : ... (dashboard tableau)]()
 ...
