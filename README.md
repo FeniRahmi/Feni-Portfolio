@@ -1,5 +1,5 @@
 # Feni Rahmi Portfolio
-![](images/InShot_20210206_161704504.jpg)
+![](images/InShot_20210206_161704504.png)
 
 Here are portfolio projects I have worked on before :  
 
