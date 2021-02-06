@@ -1,4 +1,6 @@
 # Feni Rahmi Portfolio
+![](https://github.com/FeniRahmi/Feni-Rahmi-Portfolio/blob/main/images/InShot_20210206_161704504.jpg)
+
 Here are portfolio projects I have worked on before :  
 
 # [Project 1 : Credit Card Customer Segmentation](https://github.com/FeniRahmi/CC_segmentation/blob/main/C2G6%20CC%20(3%20clusters)%20updated.ipynb)
