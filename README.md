@@ -1,5 +1,5 @@
 # Feni Rahmi Portfolio
-![](https://github.com/FeniRahmi/Feni-Rahmi-Portfolio/blob/main/images/InShot_20210206_161704504.jpg)
+![](images/InShot_20210206_161704504.jpg)
 
 Here are portfolio projects I have worked on before :  
 
