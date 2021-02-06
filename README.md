@@ -7,6 +7,7 @@ Here are portfolio projects I have worked on before :
 * The file is at a customer level with 18 behavioral variables.
 * Using K-Means algorithm with the K value determined by silhouette score.
 * Using PCA for dimension reduction and better visualization.
+* I published the article in medium : [Feni Rahmi](https://fenirahmi-fr.medium.com/credit-card-customers-segmentation-bc3c5c87ddc)
 ![](images/ccs.png)
 
 # [Project 2 : Titanic Survival Passenger using Random Forest Algorithm](https://github.com/FeniRahmi/Titanic/blob/main/Titanic%20Survival%20Passenger%20using%20Random%20Forest%20Algorithm.ipynb)
