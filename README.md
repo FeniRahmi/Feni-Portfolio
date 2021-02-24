@@ -47,27 +47,6 @@ I made a dashboard about Olympics Games from 2000 to 2010 with the tunning param
 # [Project 8 : Movie Recommendation (Content-Based Filtering)](https://github.com/FeniRahmi/Movie-Recommendation/blob/main/Movie%20Reccomendation%20(Content-Based%20Filtering).ipynb)
 Recommendation systems are a collection of algorithms used to recommend items to users based on information taken from users. In this notebook, I made movie recommendation system used content-based and implement a simplified version of the system using the Python and Pandas library.
 
-# [Project 9 : People Analytics : Is the employee has best performance or not?](https://github.com/FeniRahmi/People-Analytics/blob/main/People%20Analytics.ipynb)
-Using the existing data to predict wether an employee will be classified as best performance or not.
-* Machine learning allows HR department to make decision to predict employee performance in the next 1 year using historical KPI (Key Performance Indicator) data owned by the company.
-* We used logistic regression, KNN, random forest and gradient boosting to find the best classification model.
-* We used AUC (Area Under ROC Curve) as evaluation metric.
-
-# [Project 10 : Payment Matching](https://github.com/FeniRahmi/payment_matching/blob/main/Payment%20matching.ipynb)
-At Shopee, the buyer who chooses to place an order using bank transfer is supposed to make the transfer within 2 days after he/she places the order. After that, Shopee will receive a bank statement from the bank and Shopee needs to compare and match the bank statement with the checkout information in order to confirm that this particular order has been paid. Two criteria need to be met in order to match a bank statement with a checkout : amount match and name match. A proper match occurs when both the amount and the name matches on both bank statement and checkout list. Based on the two criteria, I have matched the bank statement IDs to the checkout IDs.
-
-# [Project 11 : Market Basket](https://github.com/FeniRahmi/market-basket/blob/main/Market%20Basket.ipynb)
-At Shopee, sellers list thousands of products for sale on their platform. A better understanding of users' tastes and preferences for products can help Shopee design better promotions and recommendations for the users. To do that, we conduct market basket analysis which allows us to identify the relationship between different combinations of products that users buy.
-
-# [Project 12 : A/B Testing for Payment Method](https://github.com/FeniRahmi/AB_testing/blob/main/AB%20testing%20payment%20method.ipynb)
+# [Project 9 : A/B Testing for Payment Method](https://github.com/FeniRahmi/AB_testing/blob/main/AB%20testing%20payment%20method.ipynb)
 * In this project, a retail company has an idea to use e-payment in the payment system at the cashier. However, other employees thought that using cash was already effective. Therefore, I want to test the use of e-payment at one of the company branches by means of A/B testing. I will test 2 branches: branch A and branch B. Branch A will use cash for the payment, while for Branch B will use e-payment.
 * I used T-test and build hypothesis to the parameters : average payment time, convertion rate (proportion of customers who make transactions).
-
-# [Project 13 : Sentiment Analysis about Airlines on Twitter](https://github.com/FeniRahmi/Sentiment-Analysis/blob/main/Sentiment%20Analysis%20about%20Airlines%20on%20Twitter.ipynb)
-In this notebook, we want to know the analytical sentiment of Twitter users regarding airlines. Later this sentiment analysis will be useful for a company to be able to find out the shortcomings of their services and improve the quality of their work.
-
-![](images/wordcloud%20sentiment.png)
-
-# [Project 14 : Sales Forecasting Using ARIMA](https://github.com/FeniRahmi/Sales-forecasting/blob/main/Sales%20Forecasting%20using%20ARIMA.ipynb)
-ARIMA (Auto Regressive Integrated Moving Average) is a simple stochastic time series model that we can use to train and then forecast future time points. ARIMA can capture complex relationships as it takes error terms and observations of lagged terms. These models rely on regressing a variable on past values. In this notebook, I have predicted the sales of a company for the next period.
-![](images/arima.png)
