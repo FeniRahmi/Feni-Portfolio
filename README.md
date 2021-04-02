@@ -38,15 +38,18 @@ I have analyzed each feature of the K-pop groups data to make the data explorati
 I made a dashboard about Olympics Games from 2000 to 2010 with the tunning parameters : country, year, and sports. I also put hyperlink to the official website of Olympic games.
 ![](images/dashboard1.PNG)
 
-# [Project 7 : Estimation of CO2 Emission using Simple Regression](https://github.com/FeniRahmi/Regression/blob/main/co2%20estimation%20(regression).ipynb)
+# [Project 7 : Website's Homepage](https://u54lfclrug6m7qb7pszmbw-on.drv.tw/HTML&CSS/)
+This is a prototype of an online learning website's homepage builded by HTML and CSS. This website is responsive, you can open it on PC, tablet and smartphone without appearance changing. Reference : Progate. You can see the full script [here](https://github.com/FeniRahmi/Homepage-html-css).
+
+# [Project 8 : Estimation of CO2 Emission using Simple Regression](https://github.com/FeniRahmi/Regression/blob/main/co2%20estimation%20(regression).ipynb)
 * This project give a model to predict CO2 emission from car using simple regression algorithm.
 * There is one feature which I used in the modeling.
 * I have selected the feature using .corr method and manual plotting (features vs target).
 ![](images/regression.png)
 
-# [Project 8 : Movie Recommendation (Content-Based Filtering)](https://github.com/FeniRahmi/Movie-Recommendation/blob/main/Movie%20Reccomendation%20(Content-Based%20Filtering).ipynb)
+# [Project 9 : Movie Recommendation (Content-Based Filtering)](https://github.com/FeniRahmi/Movie-Recommendation/blob/main/Movie%20Reccomendation%20(Content-Based%20Filtering).ipynb)
 Recommendation systems are a collection of algorithms used to recommend items to users based on information taken from users. In this notebook, I made movie recommendation system used content-based and implement a simplified version of the system using the Python and Pandas library.
 
-# [Project 9 : A/B Testing for Payment Method](https://github.com/FeniRahmi/AB_testing/blob/main/AB%20testing%20payment%20method.ipynb)
+# [Project 10 : A/B Testing for Payment Method](https://github.com/FeniRahmi/AB_testing/blob/main/AB%20testing%20payment%20method.ipynb)
 * In this project, a retail company has an idea to use e-payment in the payment system at the cashier. However, other employees thought that using cash was already effective. Therefore, I want to test the use of e-payment at one of the company branches by means of A/B testing. I will test 2 branches: branch A and branch B. Branch A will use cash for the payment, while for Branch B will use e-payment.
 * I used T-test and build hypothesis to the parameters : average payment time, convertion rate (proportion of customers who make transactions).
