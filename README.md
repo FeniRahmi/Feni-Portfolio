@@ -40,6 +40,7 @@ I made a dashboard about Olympics Games from 2000 to 2010 with the tunning param
 
 # [Project 7 : Website's Homepage](https://u54lfclrug6m7qb7pszmbw-on.drv.tw/HTML&CSS/)
 This is a prototype of an online learning website's homepage builded by HTML and CSS. This website is responsive, you can open it on PC, tablet and smartphone without appearance changing. Reference : Progate. You can see the full script [here](https://github.com/FeniRahmi/Homepage-html-css).
+![](images/homepage.png)
 
 # [Project 8 : Estimation of CO2 Emission using Simple Regression](https://github.com/FeniRahmi/Regression/blob/main/co2%20estimation%20(regression).ipynb)
 * This project give a model to predict CO2 emission from car using simple regression algorithm.
