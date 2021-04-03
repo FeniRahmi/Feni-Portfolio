@@ -34,9 +34,9 @@ I have analyzed each feature of the K-pop groups data to make the data explorati
 
 ![](https://github.com/FeniRahmi/Feni-Rahmi-Portfolio/blob/main/images/kpop%20eda2.PNG)
 
-# [Project 6 : Olympics Dashboard](https://public.tableau.com/profile/feni.rahmi#!/vizhome/OlympicsDashboard_16125823818400/Dashboard1)
-I made a dashboard about Olympics Games from 2000 to 2010 with the tunning parameters : country, year, and sports. I also put hyperlink to the official website of Olympic games.
-![](images/dashboard1.PNG)
+# [Project 6 : UK Bank Customer Analysis (2015)](https://public.tableau.com/profile/feni.rahmi#!/vizhome/UKBankCustomerAnalysis2015_16174368745420/Dashboard2)
+UK Bank balance and customer analysis for 2015. It was weekly, and you can choose the range of the time, from January 2015 to December 2015. I have visualized weekly balance (with gender comparison), gender percentage, job classification, age distribution and region of the UK Bank's customers.
+![](images/dahsboard2.png)
 
 # [Project 7 : Website's Homepage](https://u54lfclrug6m7qb7pszmbw-on.drv.tw/HTML&CSS/)
 This is a prototype of an online learning website's homepage builded by HTML and CSS. This website is responsive, you can open it on PC, tablet and smartphone without appearance changing. Also a lesson [page](https://u54lfclrug6m7qb7pszmbw-on.drv.tw/HTML%26CSS/index2.html). Reference : Progate. You can see the full script [here](https://github.com/FeniRahmi/Homepage-html-css).
@@ -54,3 +54,7 @@ Recommendation systems are a collection of algorithms used to recommend items to
 # [Project 10 : A/B Testing for Payment Method](https://github.com/FeniRahmi/AB_testing/blob/main/AB%20testing%20payment%20method.ipynb)
 * In this project, a retail company has an idea to use e-payment in the payment system at the cashier. However, other employees thought that using cash was already effective. Therefore, I want to test the use of e-payment at one of the company branches by means of A/B testing. I will test 2 branches: branch A and branch B. Branch A will use cash for the payment, while for Branch B will use e-payment.
 * I used T-test and build hypothesis to the parameters : average payment time, convertion rate (proportion of customers who make transactions).
+
+# [Project 11 : Olympics Dashboard](https://public.tableau.com/profile/feni.rahmi#!/vizhome/OlympicsDashboard_16125823818400/Dashboard1)
+I made a dashboard about Olympics Games from 2000 to 2010 with the tunning parameters : country, year, and sports. I also put hyperlink to the official website of Olympic games.
+![](images/dashboard1.PNG)
