@@ -38,23 +38,27 @@ I have analyzed each feature of the K-pop groups data to make the data explorati
 UK Bank balance and customer analysis for 2015. It was weekly, and you can choose the range of the time, from January 2015 to December 2015. I have visualized weekly balance (with gender comparison), gender percentage, job classification, age distribution and region of the UK Bank's customers.
 ![](images/dahsboard2.png)
 
-# [Project 7 : Website's Homepage](https://u54lfclrug6m7qb7pszmbw-on.drv.tw/HTML&CSS/)
+# [Project 7 : Superstore 2015 Interactive Dashboard](https://public.tableau.com/profile/feni.rahmi#!/vizhome/Superstore2015_16174596442950/Dashboard1)
+This is an interactive dashboard about product solds at superstore in 2015.
+![](images/dashboard3.png)
+
+# [Project 8 : Website's Homepage](https://u54lfclrug6m7qb7pszmbw-on.drv.tw/HTML&CSS/)
 This is a prototype of an online learning website's homepage builded by HTML and CSS. This website is responsive, you can open it on PC, tablet and smartphone without appearance changing. Also a lesson [page](https://u54lfclrug6m7qb7pszmbw-on.drv.tw/HTML%26CSS/index2.html). Reference : Progate. You can see the full script [here](https://github.com/FeniRahmi/Homepage-html-css).
 ![](images/homepage.png)
 
-# [Project 8 : Estimation of CO2 Emission using Simple Regression](https://github.com/FeniRahmi/Regression/blob/main/co2%20estimation%20(regression).ipynb)
+# [Project 9 : Estimation of CO2 Emission using Simple Regression](https://github.com/FeniRahmi/Regression/blob/main/co2%20estimation%20(regression).ipynb)
 * This project give a model to predict CO2 emission from car using simple regression algorithm.
 * There is one feature which I used in the modeling.
 * I have selected the feature using .corr method and manual plotting (features vs target).
 ![](images/regression.png)
 
-# [Project 9 : Movie Recommendation (Content-Based Filtering)](https://github.com/FeniRahmi/Movie-Recommendation/blob/main/Movie%20Reccomendation%20(Content-Based%20Filtering).ipynb)
+# [Project 10 : Movie Recommendation (Content-Based Filtering)](https://github.com/FeniRahmi/Movie-Recommendation/blob/main/Movie%20Reccomendation%20(Content-Based%20Filtering).ipynb)
 Recommendation systems are a collection of algorithms used to recommend items to users based on information taken from users. In this notebook, I made movie recommendation system used content-based and implement a simplified version of the system using the Python and Pandas library.
 
-# [Project 10 : A/B Testing for Payment Method](https://github.com/FeniRahmi/AB_testing/blob/main/AB%20testing%20payment%20method.ipynb)
+# [Project 11 : A/B Testing for Payment Method](https://github.com/FeniRahmi/AB_testing/blob/main/AB%20testing%20payment%20method.ipynb)
 * In this project, a retail company has an idea to use e-payment in the payment system at the cashier. However, other employees thought that using cash was already effective. Therefore, I want to test the use of e-payment at one of the company branches by means of A/B testing. I will test 2 branches: branch A and branch B. Branch A will use cash for the payment, while for Branch B will use e-payment.
 * I used T-test and build hypothesis to the parameters : average payment time, convertion rate (proportion of customers who make transactions).
 
-# [Project 11 : Olympics Dashboard](https://public.tableau.com/profile/feni.rahmi#!/vizhome/OlympicsDashboard_16125823818400/Dashboard1)
+# [Project 12 : Olympics Dashboard](https://public.tableau.com/profile/feni.rahmi#!/vizhome/OlympicsDashboard_16125823818400/Dashboard1)
 I made a dashboard about Olympics Games from 2000 to 2010 with the tunning parameters : country, year, and sports. I also put hyperlink to the official website of Olympic games.
 ![](images/dashboard1.PNG)
