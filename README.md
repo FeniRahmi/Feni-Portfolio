@@ -23,8 +23,8 @@ I have explored the McDonald's dataset to find the answers for the following que
 
 <h2 style="text-align: center;">Advanced Excel</h2>
 
-# [Project 4 : Project Compilation (Analytics and Optimization)](https://docs.google.com/spreadsheets/d/1-XSOF5CaUBofMdKPHuGTMx5OEmNHXC2RWuqv8190wlU/edit?usp=sharing)
-This is a compilation sheets of different case studies using advanced Excel formula: HLOOKUP and SOLVER. 
+# [Project 4 : Project Compilation (Analytics and Optimization)](https://docs.google.com/spreadsheets/d/1hzv58bdAo_fvCofOX7tM7pLGKxiPd8faXj-IkwioewY/edit?usp=sharing)
+This is a compilation sheets of different case studies using advanced Excel formula: HLOOKUP, VLOOKUP, ADD-IN SOLVER, PIVOT TABLE, IF conditional, COUNTIF, data validation and drop-down. 
 
 <h2 style="text-align: center;">Tableau Interactive Dashboard</h2>
 
