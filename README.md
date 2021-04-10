@@ -23,14 +23,14 @@ I have explored the McDonald's dataset to find the answers for the following que
 
 <h2 style="text-align: center;">Advanced Excel</h2>
 
-# [Project 4 : Project Compilation (Analytics and Optimization)](https://docs.google.com/spreadsheets/d/1hzv58bdAo_fvCofOX7tM7pLGKxiPd8faXj-IkwioewY/edit?usp=sharing)
+# [Project 4 : Advanced Excel Project Compilations](https://docs.google.com/spreadsheets/d/1hzv58bdAo_fvCofOX7tM7pLGKxiPd8faXj-IkwioewY/edit?usp=sharing)
 This is a compilation sheets of different case studies using advanced Excel formula: HLOOKUP, VLOOKUP, ADD-IN SOLVER, PIVOT TABLE, IF conditional, COUNTIF, data validation and drop-down. 
 
 <h2 style="text-align: center;">Tableau Interactive Dashboard</h2>
 
-# [Project 5 : UK Bank Customer Analysis (2015)](https://public.tableau.com/profile/feni.rahmi#!/vizhome/UKBankCustomerAnalysis2015_16174368745420/Dashboard2)
+# [Project 5 : UK Bank Customer Analysis (2015)](https://public.tableau.com/profile/feni.rahmi#!/vizhome/UKBankCustomerAnalysis2015_16180428714670/Dashboard2)
 UK Bank balance and customer analysis for 2015. It was weekly, and you can choose the range of the time, from January 2015 to December 2015. I have visualized weekly balance (with gender comparison), gender percentage, job classification, age distribution and region of the UK Bank's customers.
-![](images/dahsboard2.png)
+![](images/dashboard4.png)
 
 # [Project 6 : Superstore 2015 Interactive Dashboard](https://public.tableau.com/profile/feni.rahmi#!/vizhome/Superstore2015_16174596442950/Dashboard1)
 This is an interactive dashboard about product solds at superstore in 2015.
