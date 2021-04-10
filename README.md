@@ -32,9 +32,9 @@ This is a compilation sheets of different case studies using advanced Excel form
 UK Bank balance and customer analysis for 2015. It was weekly, and you can choose the range of the time, from January 2015 to December 2015. I have visualized weekly balance (with gender comparison), gender percentage, job classification, age distribution and region of the UK Bank's customers.
 ![](images/dashboard4.png)
 
-# [Project 6 : Superstore 2015 Interactive Dashboard](https://public.tableau.com/profile/feni.rahmi#!/vizhome/Superstore2015_16174596442950/Dashboard1)
-This is an interactive dashboard about product solds at superstore in 2015.
-![](images/dashboard3.png)
+# [Project 6 : Superstore 2015 Interactive Dashboard](https://public.tableau.com/profile/feni.rahmi#!/vizhome/InteractiveDashboardSuperstore2015/Dashboard2)
+This is an interactive dashboard about product sold at superstore in the first half of 2015.
+![](images/dashboard5.png)
 
 <h2 style="text-align: center;">Machine Learning using Python</h2>
 
